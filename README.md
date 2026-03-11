@@ -153,7 +153,3 @@ The script will:
 * Incorporating **forecaster skill** through weighted aggregation can further improve predictive accuracy.
 
 ---
-
-## Author
-
-This project was developed as an analysis of aggregation techniques in the **HFC RCTA Forecasting Tournament**.
