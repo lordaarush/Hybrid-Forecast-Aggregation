@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes and compares multiple crowd forecast aggregation techniques using data from the **HFC RCTA Forecasting Tournament**. The goal is to evaluate how different aggregation strategies perform in terms of predictive accuracy and to propose an improved hybrid method that incorporates forecaster skill.
+This project analyzes and compares multiple crowd forecast aggregation techniques using data from the **HFC RCTA Forecasting Tournament**. The goal is to evaluate how different aggregation strategies perform in terms of predictive accuracy and to propose an improved method that incorporates forecaster skill.
 
 Crowd forecasting platforms often rely on aggregating predictions from many participants. Choosing the right aggregation method can significantly influence prediction quality. This project evaluates several classical aggregation approaches and introduces a **skill-weighted hybrid aggregation method** designed to improve overall forecasting performance.
 
